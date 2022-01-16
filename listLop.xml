@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfLOP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LOP>
+    <TenGV>Giáo viên 1</TenGV>
+    <TenLOP>Tiếng Anh 1</TenLOP>
+    <IDL>0</IDL>
+    <URL>lopchitiet.aspx?id=0</URL>
+  </LOP>
+  <LOP>
+    <TenGV>Giáo viên 1</TenGV>
+    <TenLOP>Tiếng Anh 2</TenLOP>
+    <IDL>1</IDL>
+    <URL>lopchitiet.aspx?id=1</URL>
+  </LOP>
+  <LOP>
+    <TenGV>Giáo viên 1</TenGV>
+    <TenLOP>Tiếng Anh 3</TenLOP>
+    <IDL>2</IDL>
+    <URL>lopchitiet.aspx?id=2</URL>
+  </LOP>
+  <LOP>
+    <TenGV>Giáo viên 2</TenGV>
+    <TenLOP>Lập trình</TenLOP>
+    <IDL>3</IDL>
+    <URL>lopchitiet.aspx?id=3</URL>
+  </LOP>
+  <LOP>
+    <TenGV>Giáo viên 2</TenGV>
+    <TenLOP>lập trình 2</TenLOP>
+    <IDL>4</IDL>
+    <URL>lopchitiet.aspx?id=4</URL>
+  </LOP>
+  <LOP>
+    <TenGV>Giáo viên 3</TenGV>
+    <TenLOP>Kỹ thuật 1</TenLOP>
+    <IDL>6</IDL>
+    <URL>lopchitiet.aspx?id=6</URL>
+  </LOP>
+  <LOP>
+    <TenGV>Giáo viên 2</TenGV>
+    <TenLOP>lập trình 4</TenLOP>
+    <IDL>8</IDL>
+    <URL>lopchitiet.aspx?id=8</URL>
+  </LOP>
+  <LOP>
+    <TenGV>Giáo viên 2</TenGV>
+    <TenLOP>lập trình 5</TenLOP>
+    <IDL>9</IDL>
+    <URL>lopchitiet.aspx?id=9</URL>
+  </LOP>
+  <LOP>
+    <TenGV>Giáo viên 2</TenGV>
+    <TenLOP>lập trình 9</TenLOP>
+    <IDL>10</IDL>
+    <URL>lopchitiet.aspx?id=10</URL>
+  </LOP>
+</ArrayOfLOP>

@@ -1,0 +1,110 @@
+﻿*{
+    padding:0px;
+    margin:0px;
+}
+body {
+    padding:0px;
+    margin:0px auto;
+    box-sizing:border-box;
+}
+.titileds{
+    margin:5px auto;
+    background-color:antiquewhite;
+    border-bottom-color:chartreuse;
+    line-height:50px;
+    text-align:center;
+}
+.flex_box{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+}
+.lop_detail {
+    text-align: center;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px #c3e6ae;
+    background-color: #c3e6ae;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom:5px;
+}
+.lich{
+    display:flex;
+    justify-content:center;
+    flex-direction:row;
+    text-align:center;
+}
+.imgVocado{
+    max-height:150px;
+}
+.className {
+    color: #286602;
+    font-weight: bold;
+}
+.tenGV{
+    color:forestgreen;
+}
+.iconclock {
+    color: forestgreen;
+}
+.time {
+    color: forestgreen;
+    margin:auto;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+b{
+    font-size:20px;
+}
+.ix{
+    color:coral;
+}
+
+
+.boxkt{
+    display:grid;
+    grid-template-columns:50% 50%;
+   
+}
+.btn{
+    width:100%;
+    line-height: 30px;
+    border-radius: 3px;
+}
+.btndkx,.btnb1,.btnh{
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    padding: 10px;
+    width:120px;
+    margin:8px 3px;
+}
+.btndkx{
+    background-color:gold;
+}
+.red{
+   
+}
+.btnb1{
+    background-color:forestgreen;
+}
+
+.btnh{
+    background-color:brown;
+}
+
+.imgicon{
+   
+    align-self:center;
+    height:20px;
+    width:20px;
+}

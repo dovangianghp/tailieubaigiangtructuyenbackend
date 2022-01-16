@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ArrayOfChat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <chat>
+    <IDchat>1</IDchat>
+    <Name>Giáo viên 1</Name>
+    <Timechat>2020-06-06T22:03:01.053865+07:00</Timechat>
+    <Noidung>chào các bạn lớp Tiếng Anh 3 nhé!
+</Noidung>
+  </chat>
+  <chat>
+    <IDchat>1</IDchat>
+    <Name>Sinh viên 2</Name>
+    <Timechat>2020-06-06T13:12:35.7978514+07:00</Timechat>
+    <Noidung>chào các bạn!</Noidung>
+  </chat>
+  <chat>
+    <IDchat>0</IDchat>
+    <Name>Giáo viên 1</Name>
+    <Timechat>2020-06-05T09:39:29.9962593+07:00</Timechat>
+    <Noidung>chào các em!</Noidung>
+  </chat>
+  <chat>
+    <IDchat>1</IDchat>
+    <Name>Sinh viên 1</Name>
+    <Timechat>2020-06-04T22:31:23.9413272+07:00</Timechat>
+    <Noidung>chào các bạn</Noidung>
+  </chat>
+  <chat>
+    <IDchat>0</IDchat>
+    <Name>Sinh viên 2</Name>
+    <Timechat>2020-06-04T21:49:29.139908+07:00</Timechat>
+    <Noidung>Chào các bạn và thầy, cô!</Noidung>
+  </chat>
+  <chat>
+    <IDchat>2</IDchat>
+    <Name>Sinh viên 1</Name>
+    <Timechat>2020-06-04T20:40:23.2918549+07:00</Timechat>
+    <Noidung>Xin chào các bạn</Noidung>
+  </chat>
+  <chat>
+    <IDchat>0</IDchat>
+    <Name>Giáo viên 1</Name>
+    <Timechat>2020-06-06T22:21:21.3998842+07:00</Timechat>
+    <Noidung>Các em đã đọc bài của thầy chưa nhỉ.</Noidung>
+  </chat>
+</ArrayOfChat>

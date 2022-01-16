@@ -1,0 +1,92 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    padding: 0px;
+    margin: 0px auto;
+}
+.container {
+    margin:3px auto;
+    width: 90%;
+    height: 400px;
+    position: relative;
+    border-radius:30px;
+}
+img{
+    border-image:30px;
+}
+.slide {
+    display: none;
+}
+
+.change {
+    animation-name: change;
+    animation-duration: 3s;
+}
+.display{
+    display:block;
+}
+@keyframes change {
+    from {
+        opacity:0.2;
+    }
+
+    to {
+        opacity:1;
+    }
+}
+
+.prev, .next {
+    
+    position: absolute;
+    top: 50%;
+    margin-top: -10px;
+    padding: 10px;
+    cursor: pointer;
+    user-select: none;
+    font-size: 18px;
+    transition: 0.6s;
+    border-radius: 0 3px 3px 0;
+    z-index:1;
+}
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+    .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+    }
+
+.dot {
+    
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    
+}
+
+    .active, .dot:hover {
+        background-color: #717171;
+    }
+
+.classdot {
+    width: 100%;
+    position: absolute;
+    bottom: 5px;
+    display: flex;
+    justify-content: center;
+    z-index:1;
+}
+
+.classimg {
+    width: 100%;
+    height: 400px;
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ArrayOfLop_lich xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lop_lich>
+    <STT>2</STT>
+    <IDL>0</IDL>
+    <Lich>2020-04-21T00:00:00</Lich>
+    <URL>data/bai1.pdf</URL>
+    <Infor>Đây !</Infor>
+    <Titile>Bài giảng 1</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>3</STT>
+    <IDL>1</IDL>
+    <Lich>2020-04-25T00:00:00</Lich>
+    <URL>data/bai1.pdf</URL>
+    <Infor>Đây là bài giảng đầu tiên của lớp!</Infor>
+    <Titile>Bài giảng 1</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>4</STT>
+    <IDL>1</IDL>
+    <Lich>2020-04-29T00:00:00</Lich>
+    <URL>data/bai4.pdf</URL>
+    <Infor>Đây là bài giảng thứ 2 của lớp!</Infor>
+    <Titile>Bài giảng 4</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>5</STT>
+    <IDL>1</IDL>
+    <Lich>2020-04-30T00:00:00</Lich>
+    <URL>data/bai4.pdf</URL>
+    <Infor>Bài giảng có nhiều công thức cần học!</Infor>
+    <Titile>Bài giảng 4</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>5</STT>
+    <IDL>0</IDL>
+    <Lich>2020-05-04T00:00:00</Lich>
+    <URL>data/bai4.pdf</URL>
+    <Infor>Bài giảng khá khó, các bạn chú ý!</Infor>
+    <Titile>Bài giảng 4</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>6</STT>
+    <IDL>2</IDL>
+    <Lich>2020-05-06T00:00:00</Lich>
+    <URL>data/bai4.pdf</URL>
+    <Infor>Đây là bài tập khó!</Infor>
+    <Titile>Bài giảng 4</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>9</STT>
+    <IDL>1</IDL>
+    <Lich>2020-06-09T00:00:00</Lich>
+    <URL>data/baitaplon.pdf</URL>
+    <Infor>hihihiajkcdm</Infor>
+    <Titile>Bai tap lon</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>8</STT>
+    <IDL>0</IDL>
+    <Lich>2020-06-11T00:00:00</Lich>
+    <URL>data/DoVanGiang_Baitapgiuaki.pdf</URL>
+    <Infor>Đây là bài tập giữa kì nên các bạn chú ý làm cẩn thận!</Infor>
+    <Titile>Bài tập giữa kì</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>10</STT>
+    <IDL>1</IDL>
+    <Lich>2020-11-26T00:00:00</Lich>
+    <URL>data/Doan-Tien-Dat.pdf</URL>
+    <Infor>sgdjhsgjh</Infor>
+    <Titile>bài 36</Titile>
+  </Lop_lich>
+  <Lop_lich>
+    <STT>10</STT>
+    <IDL>1</IDL>
+    <Lich>2021-04-22T00:00:00</Lich>
+    <URL>data/DoVanGiang_Baitapgiuaki.pdf</URL>
+    <Infor>Chao cac ban</Infor>
+    <Titile>Bai tap giua ky</Titile>
+  </Lop_lich>
+</ArrayOfLop_lich>

@@ -1,0 +1,120 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-image: url(../anh/background.jpg);
+    color: lightgray;
+}
+
+header {
+    width: 100%;
+    line-height: 70px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+#center {
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#grid {
+    width: 80%;
+    min-height: 450px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#checkbox{
+    display:grid;
+    grid-template-columns:10% 40% 10% 40%;
+}
+
+aside {
+    background-image: url(../anh/content.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#form_regist {
+    width: 100%;
+    height: 100%;
+    padding: 40px;
+}
+
+footer {
+    width: 100%;
+    font-weight: 400;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    line-height: 40px;
+    margin-bottom: 15px;
+    border-top: hidden;
+    border-right: hidden;
+    border-left: hidden;
+    border-bottom: 2px solid lightgray;
+    background-color: inherit;
+    border-radius: 3px;
+    color: lightgray;
+}
+
+button {
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    background-color: lightseagreen;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: black;
+    margin-top: 10px;
+}
+
+    button:hover {
+        background-color: green;
+    }
+
+p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.face {
+    width: 20px;
+    height: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    #grid {
+        width: 70%;
+        min-height: 400px;
+        display: grid;
+        grid-template-columns: 100%;
+    }
+
+    aside {
+        display: none;
+    }
+}

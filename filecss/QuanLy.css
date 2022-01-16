@@ -1,0 +1,116 @@
+﻿*{
+    padding:0px;
+    margin:0px;
+}
+body {
+    padding:0px;
+    margin:0px auto;
+    box-sizing:border-box;
+}
+.grid{
+    display:grid;
+    margin:5px auto;
+    grid-template-columns:35% 65%;
+    max-width:1400px;
+}
+.s1{
+    max-width:800px;
+    display:flex;
+    justify-content:center;
+    
+    margin:0px 10px;
+}
+.s_QLDS {
+    max-height: 420px;
+}
+.s_lop{
+    max-height:450px;
+}
+.form_QL{
+    border:groove green;
+    border-radius:3px;
+    padding:20px;
+    
+}
+h1{
+    text-align:center;
+    margin:0px 0px 10px;
+    border-left:20px solid highlight;
+    line-height:50px;
+    background-color:dodgerblue;
+}
+.tk{
+    margin:-20px -20px 0px -20px;
+}
+input{
+    line-height:30px;
+    margin:1px 0px 5px; 
+    width:100%;
+    border:hidden;
+    border-bottom:3px solid green;
+}
+#subbutton{
+    width:100%;
+    text-align:center;
+}
+.btn{
+    background-color:forestgreen;
+    padding:10px;
+}
+#checkboxa{
+    width:100%;
+    display:flex;
+    align-content:center;
+    line-height:30px;
+}
+.checkbox_sona{
+    margin:0px 10px;
+    width:100px;
+}
+.s2 {
+    max-width: 900px;
+    padding:0px 10px;
+    border-left:1px solid gray;
+}
+.lichhoc{
+    
+    border-left:hidden;
+}
+table{
+    margin:0px auto;
+    border-radius:5px ;
+    border: groove green;
+}
+.thead{
+    background-color:chartreuse;
+}
+tr{
+   line-height:30px; 
+   margin:10px;
+}
+tr:hover{
+    background-color:aquamarine;
+}
+.thead:hover{
+    background-color: chartreuse;
+}
+td{
+    padding:20px;
+    border-bottom:1px solid black;
+}
+textarea{
+    width:100%;
+    line-height:40px;
+    padding:10px;
+    margin:5px;
+}
+
+@media screen and (max-width:900px){
+    .grid{
+        grid-template-columns:100%;
+    }
+    .s2{
+        border:hidden;
+    }
+
+}

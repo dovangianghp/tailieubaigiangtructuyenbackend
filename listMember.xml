@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member>
+    <ID>0</ID>
+    <Email>admin@gmail.com</Email>
+    <Ten>admin(DVG-NLH)</Ten>
+    <Pass1>123456aA</Pass1>
+    <Doituong>admin</Doituong>
+  </Member>
+  <Member>
+    <ID>1</ID>
+    <Email>GV1@gmail.com</Email>
+    <Ten>Giáo viên 1</Ten>
+    <Pass1>111111aA</Pass1>
+    <Doituong>Giáo viên</Doituong>
+  </Member>
+  <Member>
+    <ID>2</ID>
+    <Email>GV2@gmail.com</Email>
+    <Ten>Giáo viên 2</Ten>
+    <Pass1>111111aA</Pass1>
+    <Doituong>Giáo viên</Doituong>
+  </Member>
+  <Member>
+    <ID>3</ID>
+    <Email>SV1@gmail.com</Email>
+    <Ten>Sinh viên 1</Ten>
+    <Pass1>111111bB</Pass1>
+    <Doituong>Sinh viên</Doituong>
+  </Member>
+  <Member>
+    <ID>4</ID>
+    <Email>SV2@gmail.com</Email>
+    <Ten>Sinh viên 2</Ten>
+    <Pass1>111111cC</Pass1>
+    <Doituong>Sinh viên</Doituong>
+  </Member>
+  <Member>
+    <ID>5</ID>
+    <Email>GV3@gmail.com</Email>
+    <Ten>Giáo viên 3</Ten>
+    <Pass1>123456aA</Pass1>
+    <Doituong>Giáo viên</Doituong>
+  </Member>
+</ArrayOfMember>
